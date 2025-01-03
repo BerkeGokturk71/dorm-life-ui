@@ -138,5 +138,6 @@ lib/generated_plugin_registrant.dart
 .ionide
 firebase.json
 .vscode
+.lib/firebase_options.dart
 
 # End of https://www.toptal.com/developers/gitignore/api/flutter,visualstudiocode,firebase
